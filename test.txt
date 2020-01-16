@@ -1,2 +1,3 @@
 hello 
 its example of stash 
+edited new lines
